@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "portfolio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mansi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "generate-password": "^1.7.1",
+    "nodemon": "^3.0.2",
+    "silly-animals": "^1.0.1"
+  },
+  "description": ""
+}
